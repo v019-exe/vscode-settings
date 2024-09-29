@@ -48,7 +48,7 @@
     "scm.diffDecorations": "none",
     "files.insertFinalNewline": true,
     "extensions.ignoreRecommendations": true,
-    //"files.autoSave": "afterDelay",
+    "files.autoSave": "afterDelay",
     "terminal.integrated.tabs.enabled": false,
     "terminal.integrated.fontSize": 14,
     "window.titleBarStyle": "native",
