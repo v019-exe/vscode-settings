@@ -1,5 +1,5 @@
 # CONFIGURACIÓN DE VSCODE
-Esta configuración es la mía de vscode
+Esta configuración es la mía de vscode, **esta configuración está basada en un video de youtube de otra persona!**
 
 
 # CÓMO USARLA
